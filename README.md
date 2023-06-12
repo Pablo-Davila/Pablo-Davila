@@ -6,9 +6,9 @@
     <img alt="LinkedIn" src="https://img.shields.io/static/v1?label=&message=website&color=green&style=for-the-badge&logo=apache"/>
 </a>
 
-<a href="#Pablohn26-title">
+<!-- <a href="#Pablohn26-title">
   <img src="https://github-readme-stats.vercel.app/api?username=pablo-davila&theme=vue-dark&show_icons=true&hide=stars&count_private=true" alt="Pablohn26" align="right" />
-</a>
+</a> -->
 
 - :books: Mathematics and Computer Science student
 - :office: Researching at [University of Seville](https://us.es/)
