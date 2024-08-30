@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pablo-davila&theme=vue-dark&show_icons=true&hide=stars&count_private=true" alt="Pablohn26" align="right" />
 </a> -->
 
-- 💼 Data Scientist at [Oga.ai](https://www.oga.ai) | Backend developer at [CTrading](https://ctrading.io/)
+- 💼 Data Scientist at [Oga.ai](https://www.oga.ai)
 - :books: BSc. Mathematics + Bsc. Computer Science
 - :muscle: Python expert
 - :speech_balloon: Always learning!
