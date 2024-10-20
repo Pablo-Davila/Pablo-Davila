@@ -14,5 +14,5 @@
 
 - 💼 Data Scientist at [Oga.ai](https://www.oga.ai)
 - :books: BSc. Mathematics + Bsc. Computer Science
-- :muscle: Python expert
+- :muscle: Python and SQL expert
 - :speech_balloon: Always learning!
