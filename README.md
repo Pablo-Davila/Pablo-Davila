@@ -1,4 +1,5 @@
 
+
 ### Hi there 👋, my name is Pablo
 
 <a href="https://www.linkedin.com/in/pablo-davila-herrero/">
@@ -12,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pablo-davila&theme=vue-dark&show_icons=true&hide=stars&count_private=true" alt="Pablohn26" align="right" />
 </a> -->
 
-- 💼 Data Scientist at [Oga.ai](https://www.oga.ai)
+- 💼 Data Scientist at [Plain Concepts](https://www.plainconcepts.com/)
 - :books: BSc. Mathematics + Bsc. Computer Science
 - :muscle: Python and SQL expert
 - :speech_balloon: Always learning!
