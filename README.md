@@ -1,17 +1,5 @@
 
 
-## Hi there 👋, my name is Pablo
-
-<div>
-    <a href="https://www.linkedin.com/in/pablo-davila-herrero/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://pablodavila.eu">
-        <img alt="Portfolio website" src="https://img.shields.io/static/v1?label=&message=website&color=green&style=for-the-badge&logo=apache"/>
-    </a>
-</div>
-
-
 > ### 💡 **TL;DR**
 >
 > I am a passionate builder who thrives on solving meaningful problems through technology. As a Data Scientist and engineer, I have worked on a wide variety of problems ranging from Computer Vision to Optimization algorithms, APIs and RAG systems.
