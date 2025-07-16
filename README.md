@@ -27,34 +27,29 @@
   - **Over 14k downloads of [my Anki decks](https://ankiweb.net/shared/by-author/178243733)**: I use Anki flashcards to learn every day and people seem to like my content.
   - **Competitions**: I have won a few awards at Mathematics, Algorithms and innovation competitions. _Full list [here](https://pablodavila.eu/awards.html)_.
   - Self-hosted infrastructure:
-      - Traefik: reverse proxy (I use multiple domains under a single IP address) and automated SSL certificates renewal
-      - [My own DDNS system](https://github.com/Pablo-Davila/spaceship-ddns) _(given that Spaceship only provides an API)_
-      - My portfolio _(it dates back to year 2 at uni, but you can play [tetris](https://pablodavila.eu/games/tetris/)!)_
-      - Telegram bots (more on this later)
-      - Look Ahead services (more on this later)
-      - All the above runs using Docker
-
-      > Looking at this, you may think "It doesn't make sense to go through the trouble of self-hosting all of this."
-      > You are right. It clearly does not if you want to ship fast, but it is great if you just want to have fun and learn how everything works :)
-
-  - Look Ahead (development paused): A platform to provide information to students about grants, free courses, internships and other opportunities
-      - I played backend while a friend worked on the frontend
-      - [API](https://api.pablodavila.eu/docs) (Python, FastAPI, SQLAlchemy and Google OAuth) _(pre-alpha version)_
-      - SQL database
-      - A cronjob for DB backups
-      - [A Telegram channel](https://t.me/lookahead_oportunidades) with over 650 followers
+      - Traefik: reverse proxy (I use multiple domains under a single IP address) and automated SSL certificates renewal.
+      - [My own DDNS system](https://github.com/Pablo-Davila/spaceship-ddns) _(given that Spaceship only provides an API)_.
+      - My portfolio _(it dates back to year 2 at uni, but you can play [tetris](https://pablodavila.eu/games/tetris/)!)_.
+      - Telegram bots (more on this later).
+      - Look Ahead services (more on this later).
+      - All the above runs using Docker.
+  - Look Ahead (development paused): A platform to provide information to students about grants, free courses, internships and other opportunities.
+      - I play backend while a friend works on the frontend.
+      - API (Python, FastAPI, SQLAlchemy and Google OAuth) _(pre-alpha version)_.
+      - SQL database and a cronjob for backups.
+      - [A Telegram channel](https://t.me/lookahead_oportunidades) with over 650 followers.
   - Telegram bots (Python + Docker):
-      - [MyElizaPsychologistBot](https://t.me/MyElizaPsychologistBot) ([source](https://github.com/Pablo-Davila/MyElizaPsychologistBot))
-      - [TasksListsBot](https://t.me/TasksListsBot) ([source](https://github.com/Pablo-Davila/TasksListsBot))
-      - [TrainCounterBot](https://t.me/TrainCounterBot) ([source](https://github.com/Pablo-Davila/TrainCounterBot))
-  - [A certificates generator](https://pablodavila.eu/project.html?name=certificatesGenerator)
-  - Ad-hoc web scrapers (Python + BeautifulSoup / Selenium)
+      - [MyElizaPsychologistBot](https://t.me/MyElizaPsychologistBot) ([source](https://github.com/Pablo-Davila/MyElizaPsychologistBot)).
+      - [TasksListsBot](https://t.me/TasksListsBot) ([source](https://github.com/Pablo-Davila/TasksListsBot)).
+      - [TrainCounterBot](https://t.me/TrainCounterBot) ([source](https://github.com/Pablo-Davila/TrainCounterBot)).
+  - [A certificates generator](https://pablodavila.eu/project.html?name=certificatesGenerator).
+  - Ad-hoc web scrapers (Python + BeautifulSoup / Selenium).
 
 
 ### Some personal stuff
 
-  - 🐧 Open (source) projects enthusiast
-  - 🧗‍♂️ I love rock climbing
-  - 🍫 Chocolate enjoyer
+  - 🐧 Open (source) projects enthusiast.
+  - 🧗‍♂️ I love rock climbing.
+  - 🍫 Chocolate enjoyer.
 
-> 🎯 "What makes life mean something is purpose: A goal, the battle, the struggle. Even if you don’t win it."
+> 🎯 "What makes life mean something is purpose: A goal, the battle, the struggle. Even if you don't win it."
